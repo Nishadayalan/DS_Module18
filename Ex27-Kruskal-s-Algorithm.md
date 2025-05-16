@@ -1,5 +1,5 @@
 # Ex 6B Kruskal’s Algorithm
-## DATE:
+## DATE: 9-5-2025
 ## AIM:
 To write a C program to implement Kruskal's Algorithm for finding minimum cost
 
